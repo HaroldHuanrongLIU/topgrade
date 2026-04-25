@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [17.5.0](https://github.com/topgrade-rs/topgrade/compare/v17.4.0...v17.5.0) - 2026-04-25
+
+### Added
+
+- *(cargo)* add locked option for cargo install-update ([#1980](https://github.com/topgrade-rs/topgrade/pull/1980))
+
 ## [17.4.0](https://github.com/topgrade-rs/topgrade/compare/v17.3.0...v17.4.0) - 2026-04-21
 
 ### Added
